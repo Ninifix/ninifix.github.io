@@ -1,1 +1,2 @@
-this is index.md
+# ninifix.github.io
+hello, world!
